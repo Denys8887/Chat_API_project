@@ -1,0 +1,6 @@
+.env
+dbpassword
+*.pyc
+.idea
+# Project exclude paths
+/venv/
